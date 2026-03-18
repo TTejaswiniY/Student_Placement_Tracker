@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="20" fill="#0EA5E9"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">
+    W
+  </text>
+  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#e0f2fe">
+    Wipro
+  </text>
+</svg>
+
